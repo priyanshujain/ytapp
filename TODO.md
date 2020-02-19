@@ -1,0 +1,4 @@
+- check out https://github.com/brave and use brave instead of chromium
+- USE https://github.com/sentialx/electron-extensions for installing ublock origin in electron app
+- https://github.com/gorhill/uBlock
+- https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-
