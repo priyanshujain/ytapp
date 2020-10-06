@@ -23,6 +23,6 @@
   "license": "MIT",
   "buildResources": "build",
   "devDependencies": {
-    "electron": "^8.0.0"
+    "electron": "^8.5.1"
   }
 }
